@@ -7,17 +7,17 @@ A collection of my learning, practical exercises, and projects from the Technica
 
 This repository showcases the technical writing tools and skills I have learned throughout my course.
 
-It includes practical examples, documentation, presentations, and exercises.
+It include a brief overview of each topic and the slides i used to study this course .
 
 ## Topics Covered
 
-| Topic | Description |
-|---|---|
-| LaTeX | Technical document preparation |
-| Doxygen | Automated code documentation |
-| Beamer | Presentation creation using LaTeX |
-| Google Docs | Collaborative document creation |
-| Git & GitHub | Version control and project management |
+| Topic | Description |Read|
+|---|---|---|
+| LaTeX | Technical document preparation |[Read](latex/README.md)|
+| Doxygen | Automated code documentation |[Read](doxygen/README.md)|
+| Beamer | Presentation creation using LaTeX |[Read](beamer/README.md)|
+| Google Docs | Collaborative document creation |[Read](google-docs/README.md)|
+| Git & GitHub | Version control and project management |[Read](git-github/README.md)|
 
 ## Repository Structure
 
@@ -65,6 +65,7 @@ Original lecture presentations for reference:
 ## Author
 
 Tejasva Singh Yadav
+ID:2025UCP1816
 
 ---
 
