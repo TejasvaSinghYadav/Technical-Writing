@@ -1,6 +1,6 @@
 # Beamer
 
-Beamer is a LaTeX document class for creating presentation slides. In the supplied course notes, Beamer appears briefly as a document class and a simple frame example; there is no separate Beamer lecture PDF.
+Beamer is a LaTeX document class for creating presentation slides. 
 
 ## 1. Minimal presentation
 
@@ -54,4 +54,3 @@ These are useful extensions to practise; they are not all demonstrated in the su
 
 Save as `presentation.tex` and compile with `pdflatex presentation.tex` or use Overleaf. Keep one main idea per slide, use short bullets, readable text, consistent layouts, and visuals only when they help explain the point.
 
-**Course coverage:** The supplied notes show the `beamer` class and a basic `frame` containing an itemized list, not a full Beamer unit.
