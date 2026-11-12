@@ -30,8 +30,6 @@ technical-writing/
 ├── beamer/
 ├── google-docs/
 ├──slides/
-
-
 ```
 
 ## Tools Used
