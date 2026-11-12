@@ -29,7 +29,9 @@ technical-writing/
 ├── doxygen/
 ├── beamer/
 ├── google-docs/
-└── git-github/
+├──slides/
+
+
 ```
 
 ## Tools Used
