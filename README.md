@@ -50,6 +50,18 @@ technical-writing/
 - Collaborate using online documentation tools.
 - Manage projects using Git and GitHub.
 
+## Lecture Slides
+
+Original lecture presentations for reference:
+
+| Topic | Slides |
+|---|---|
+| LaTeX | [View Slides](Slides/latex) |
+| Doxygen | [View Slides](Slides/doxygen) |
+| Beamer | [View Slides](Slides/latex) |
+| Google Docs | [View Slides](google-docs/README.md) |
+| Git and GitHub | [View Slides](Slides/git-github) |
+
 ## Author
 
 Tejasva Singh Yadav
