@@ -165,7 +165,7 @@ The `picture` environment draws simple diagrams. Coordinates and dimensions are 
 - `\fboxrule` and `\fboxsep` control frame thickness and padding.
 - `\shortstack{...}` stacks lines of text.
 
-## 9. Other document classes in the slides
+## 9. Other
 
 - `report` and `book` support chapters. In `book`, `\frontmatter`, `\mainmatter`, `\backmatter` separate front matter, main content, and back matter.
 - `letter` uses `\address`, `\signature`, `letter`, `\opening`, and `\closing`.
