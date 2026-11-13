@@ -11,6 +11,15 @@
 </p>
 
 ---
+## ★ Acknowledgements
+
+I would like to express my sincere gratitude to **Prof. Neeta Nain** ma'am for her guidance and instruction throughout the Technical Writing course.
+
+## ⦾ Author
+
+**Tejasva Singh Yadav**
+
+Student ID: `2025UCP1816`
 
 ## 📖 About This Repository
 
@@ -100,15 +109,6 @@ The following tools and technologies are covered in this repository:
 
 
 
-## 👨‍💻 Author
-
-**Tejasva Singh Yadav**
-
-Student ID: `2025UCP1816`
-
-## 🙏 Acknowledgements
-
-I would like to express my sincere gratitude to **Prof. Neeta Nain** ma'am for her guidance and instruction throughout the Technical Writing course.
 
 
 ---
