@@ -89,13 +89,13 @@ This repository also maintains lecture presentations used during the course as s
 
 You can explore the available topics:
 
-|Topic|Slides|
-|---|---|
-|Latex|[learn](./Slides/latex/)|
-|Doxygen|[learn](./Slides/doxygen/)|
-|Beamer|[learn](./beamer/README.md)|
-|Google docs|[learn](./google-docs/README.md)|
-|Git-Github|[learn](./Slides/git-github/)|
+|S.no|Topic|Slides|
+|---|---|---|
+|1.|Latex|[learn](./Slides/latex/)|
+|2.|Doxygen|[learn](./Slides/doxygen/)|
+|3.|Beamer|[learn](./beamer/README.md)|
+|4.|Google docs|[learn](./google-docs/README.md)|
+|5.|Git-Github|[learn](./Slides/git-github/)|
 
 
 ## 👨‍💻 Author
