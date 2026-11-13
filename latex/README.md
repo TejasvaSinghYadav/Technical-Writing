@@ -174,4 +174,4 @@ The `picture` environment draws simple diagrams. Coordinates and dimensions are 
 
 Keep the `.tex` source with its compiled PDF. Some commands require packages, and references may need another compilation pass.
 
-go back:[Home](README.md)
+go back:[Home](./README.md)
