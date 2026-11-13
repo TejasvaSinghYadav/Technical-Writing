@@ -24,11 +24,11 @@ The objective is to maintain an organized collection of everything I have learne
 
 | Topic | Description | Resources |
 |:---|:---|:---:|
-| **LaTeX** | Creating professional technical documents using typesetting. | [Explore →](./latex/README.md) |
-| **Doxygen** | Generating automated documentation from source code. | [Explore →](./doxygen/README.md) |
-| **Beamer** | Creating professional presentations using LaTeX. | [Explore →](./beamer/README.md) |
-| **Google Docs** | Creating, formatting, and collaborating on documents. | [Explore →](./google-docs/README.md) |
-| **Git & GitHub** | Version control, repository management, and collaboration. | [Explore →](./git-github/README.md) |
+| **LaTeX** | Creating professional technical documents using typesetting. | [READ](./latex/README.md) |
+| **Doxygen** | Generating automated documentation from source code. | [READ](./doxygen/README.md) |
+| **Beamer** | Creating professional presentations using LaTeX. | [READ](./beamer/README.md) |
+| **Google Docs** | Creating, formatting, and collaborating on documents. | [READ](./google-docs/README.md) |
+| **Git & GitHub** | Version control, repository management, and collaboration. | [READ](./git-github/README.md) |
 
 ## 🗂️ Repository Structure
 
@@ -87,7 +87,16 @@ Through this course, I aim to develop the ability to:
 
 This repository also maintains lecture presentations used during the course as supplementary learning resources.
 
-You can explore the available presentations in the **[Slides directory](./slides/)**.
+You can explore the available topics:
+
+|Topic|Slides|
+|---|---|
+|Latex|[learn](./Slides/latex/)|
+|Doxygen|[learn](./Slides/doxygen/)|
+|Beamer|[learn](./beamer/README.md)|
+|Google docs|[learn](./google-docs/README.md)|
+|Git-Github|[learn](./Slides/git-github/)|
+
 
 ## 👨‍💻 Author
 
