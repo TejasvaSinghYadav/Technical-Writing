@@ -54,7 +54,9 @@ Technical-Writing/
 │   └── README.md
 │
 └── slides/
-    └── Lecture presentations
+    └── doxygen/
+    └── git-github/
+    └── Latex
 ```
 
 Each topic has its own dedicated folder containing detailed explanations and learning materials.
