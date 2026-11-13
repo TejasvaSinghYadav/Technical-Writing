@@ -95,8 +95,6 @@ You can explore the available topics:
 |4.|Google docs|Creating, formatting, and collaborating on documents.|[learn](./google-docs/README.md)|
 |5.|Git-Github|Version control, repository management, and collaboration.|[learn](./Slides/git-github/)|
 
-## FURTHER READING !
- if you enjoyed learning from the above resources here is a pretty good [BOOK](./latex/lshort.pdf) .You can use this book for further conceptual clarity.
 ## 🛠️ Tools & Technologies
 
 The following tools and technologies are covered in this repository:
