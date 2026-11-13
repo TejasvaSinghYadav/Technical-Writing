@@ -108,7 +108,7 @@ Student ID: `2025UCP1816`
 
 ## 🙏 Acknowledgements
 
-I would like to express my sincere gratitude to Prof. Neeta Nain for her guidance and instruction throughout the Technical Writing course.
+I would like to express my sincere gratitude to **Prof. Neeta Nain** ma'am for her guidance and instruction throughout the Technical Writing course.
 
 Her lectures and teaching materials provided the foundation for exploring the tools and concepts documented in this repository.
 ---
