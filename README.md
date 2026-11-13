@@ -106,10 +106,11 @@ The following tools and technologies are covered in this repository:
 
 Student ID: `2025UCP1816`
 
-## Under guidance of:
-**PROF. NEETA NAIN ma'am**
+## 🙏 Acknowledgements
 
+I would like to express my sincere gratitude to Prof. Neeta Nain for her guidance and instruction throughout the Technical Writing course.
 
+Her lectures and teaching materials provided the foundation for exploring the tools and concepts documented in this repository.
 ---
 
 <p align="center">
