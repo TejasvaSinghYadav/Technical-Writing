@@ -22,13 +22,13 @@ The objective is to maintain an organized collection of everything I have learne
 
 ## 📂 Topics Covered
 
-| Topic | Description | Resources |
-|:---|:---|:---:|
-| **LaTeX** | Creating professional technical documents using typesetting. | [READ](./latex/README.md) |
-| **Doxygen** | Generating automated documentation from source code. | [READ](./doxygen/README.md) |
-| **Beamer** | Creating professional presentations using LaTeX. | [READ](./beamer/README.md) |
-| **Google Docs** | Creating, formatting, and collaborating on documents. | [READ](./google-docs/README.md) |
-| **Git & GitHub** | Version control, repository management, and collaboration. | [READ](./git-github/README.md) |
+|S.no | Topic | Description | Resources |
+|---|---|---|---|
+|1.| **LaTeX** | Creating professional technical documents using typesetting. | [READ](./latex/README.md) |
+|2.| **Doxygen** | Generating automated documentation from source code. | [READ](./doxygen/README.md) |
+|3.| **Beamer** | Creating professional presentations using LaTeX. | [READ](./beamer/README.md) |
+|4.| **Google Docs** | Creating, formatting, and collaborating on documents. | [READ](./google-docs/README.md) |
+|5.| **Git & GitHub** | Version control, repository management, and collaboration. | [READ](./git-github/README.md) |
 
 ## 🗂️ Repository Structure
 
