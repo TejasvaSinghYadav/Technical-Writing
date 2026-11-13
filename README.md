@@ -20,15 +20,6 @@ This repository documents my learning journey throughout the Technical Writing c
 
 The objective is to maintain an organized collection of everything I have learned and provide an easy reference for future use.
 
-## 📂 Topics Covered
-
-|S.no | Topic | Description | Resources |
-|---|---|---|---|
-|1.| **LaTeX** | Creating professional technical documents using typesetting. | [READ](./latex/README.md) |
-|2.| **Doxygen** | Generating automated documentation from source code. | [READ](./doxygen/README.md) |
-|3.| **Beamer** | Creating professional presentations using LaTeX. | [READ](./beamer/README.md) |
-|4.| **Google Docs** | Creating, formatting, and collaborating on documents. | [READ](./google-docs/README.md) |
-|5.| **Git & GitHub** | Version control, repository management, and collaboration. | [READ](./git-github/README.md) |
 
 ## 🗂️ Repository Structure
 
@@ -56,34 +47,19 @@ Technical-Writing/
 └── slides/
     └── doxygen/
     └── git-github/
-    └── Latex
+    └── Latex/
 ```
 
 Each topic has its own dedicated folder containing detailed explanations and learning materials.
+## 📂 Topics Covered
 
-## 🛠️ Tools & Technologies
-
-The following tools and technologies are covered in this repository:
-
-- **LaTeX** – Document preparation and typesetting.
-- **Doxygen** – Automated source code documentation.
-- **Beamer** – Presentation creation.
-- **Google Docs** – Online document creation and collaboration.
-- **Git** – Distributed version control.
-- **GitHub** – Repository hosting and collaboration.
-- **Markdown** – Lightweight documentation formatting.
-
-## 🎯 Learning Objectives
-
-Through this course, I aim to develop the ability to:
-
-- Create well-structured and professionally formatted technical documents.
-- Understand document preparation using LaTeX.
-- Generate automated documentation for software projects.
-- Design effective presentations using Beamer.
-- Collaborate and manage documents using Google Docs.
-- Understand version control and maintain projects using Git and GitHub.
-- Present technical information clearly and effectively.
+|S.no | Topic | Description | Resources |
+|---|---|---|---|
+|1.| **LaTeX** | Creating professional technical documents using typesetting. | [READ](./latex/README.md) |
+|2.| **Doxygen** | Generating automated documentation from source code. | [READ](./doxygen/README.md) |
+|3.| **Beamer** | Creating professional presentations using LaTeX. | [READ](./beamer/README.md) |
+|4.| **Google Docs** | Creating, formatting, and collaborating on documents. | [READ](./google-docs/README.md) |
+|5.| **Git & GitHub** | Version control, repository management, and collaboration. | [READ](./git-github/README.md) |
 
 ## 🎓 Lecture Slides
 
@@ -98,6 +74,30 @@ You can explore the available topics:
 |3.|Beamer|[learn](./beamer/README.md)|
 |4.|Google docs|[learn](./google-docs/README.md)|
 |5.|Git-Github|[learn](./Slides/git-github/)|
+## 🛠️ Tools & Technologies
+
+The following tools and technologies are covered in this repository:
+
+- **LaTeX** – Document preparation and typesetting.
+- **Doxygen** – Automated source code documentation.
+- **Beamer** – Presentation creation.
+- **Google Docs** – Online document creation and collaboration.
+- **Git** – Distributed version control.
+- **GitHub** – Repository hosting and collaboration.
+
+
+## 🎯 Learning Objectives
+
+Through this course you will be able to:
+
+- Create well-structured and professionally formatted technical documents.
+- Understand document preparation using LaTeX.
+- Generate automated documentation for software projects.
+- Design effective presentations using Beamer.
+- Collaborate and manage documents using Google Docs.
+- Understand version control and maintain projects using Git and GitHub.
+- Present technical information clearly and effectively.
+
 
 
 ## 👨‍💻 Author
